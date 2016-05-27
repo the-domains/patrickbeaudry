@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: On the story of 911
-datePublished: '2016-05-27T16:19:03.163Z'
-dateModified: '2016-05-27T16:17:24.830Z'
+datePublished: '2016-05-27T16:19:55.496Z'
+dateModified: '2016-05-27T16:19:54.706Z'
 title: ''
 author: []
 authors: []
@@ -167,7 +167,4 @@ At home, this story was the ignition point for the Patriot Act, to domestic spyi
 
 Why bring this up? For all of the above and for the millions of individuals that were killed in the process and for the millions of refugees that have seen their lives shattered to pieces. 
 
-We've been at war of 15 years. The suffering is intensifying and yet the remedy is more of the same. More war.
-
-What better place to stop this madness than at the very beginning to
-it all?
+We've been at war of 15 years. The suffering is intensifying and yet the remedy is more of the same. It's time we look at our beliefs and change them if we are to change to world.
