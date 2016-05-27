@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: On the story of Christ
-datePublished: '2016-05-27T15:58:05.696Z'
-dateModified: '2016-05-27T15:58:04.001Z'
+datePublished: '2016-05-27T15:58:41.252Z'
+dateModified: '2016-05-27T15:58:30.974Z'
 title: ''
 author: []
 authors: []
