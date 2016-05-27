@@ -1,0 +1,28 @@
+name: PatrickBeaudry
+favicon: null
+layout_spectrum: 0.07623296929523349
+typography_spectrum: 0.7183638492133468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9304615478031337
+  lightness: 0.21905068517662585
+  saturation: 0.5456935432739556
+  rhythmicContrast: 0.7574705283623189
+purpose: []
