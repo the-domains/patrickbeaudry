@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: How Stories Come to Life
-datePublished: '2016-05-27T12:59:27.098Z'
-dateModified: '2016-05-27T12:58:52.505Z'
+datePublished: '2016-05-31T10:50:51.889Z'
+dateModified: '2016-05-27T16:20:23.441Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-27-how-stories-come-to-life.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-27-how-stories-come-to-life.md
 url: how-stories-come-to-life/index.html
 _type: Article
 
